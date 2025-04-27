@@ -8,5 +8,17 @@
 
 ## Dependencies
 <p id="Dependencies">
-  This program needs the <a href="https://pyautogui.readthedocs.io/en/latest/">pyautogui</a> and <a href="https://pypi.org/project/keyboard/">keyboard</a> modules (loggin and time as well, but those are part of the standard library).
+  Language: Python 3<br>
+  Modules: <a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> and <a href="https://pypi.org/project/keyboard/">keyboard</a> (logging and time as well, but those are part of the standard library).
+</p>
+
+## Usage
+<p id="Usage">
+  The program will constantly display x, y coordinates and RGB color for cursor position and has some shortcuts to save information:
+  <ul>
+    <li><b>Alt+R</b>: Save current cursor's position and color</li>
+    <li><b>Alt+S</b>: Save current cursor's position and color with input custom tag</li>
+    <li><b>Alt+L</b>: Write all saved positions and colors, with and without tag, to path = "./mouse_tracker_log.txt"</li>
+    <li><b>Alt+Q</b>: Stops program, displays saved position and exits</li>
+  </ul>
 </p>
