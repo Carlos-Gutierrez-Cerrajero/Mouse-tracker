@@ -14,6 +14,7 @@
 
 ## Usage
 <p id="Usage">
+  Run mouse_tracker.py<br>
   The program will constantly display x, y coordinates and RGB color for cursor position and has some shortcuts to save information:
   <ul>
     <li><b>Alt+R</b>: Save current cursor's position and color</li>
