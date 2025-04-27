@@ -2,7 +2,7 @@
 
 ## Description
 <p id="Description">
-  A very small program that constantly updates the cursor x and y positions and the RGB color of the current pixel. Useful for GUI automation, although I've used it to save RGB color codes for a variety of reasons.<br>
+  A small program that constantly updates the cursor x and y positions and the RGB color of the current pixel. Useful for GUI automation, although I've used it to save RGB color codes for a variety of reasons.<br>
   This is my attempt to replicate the <a href="https://pypi.org/project/MouseInfo/">Mouse info module</a> prompted by the excellent book <a href="https://automatetheboringstuff.com/#toc">Automate the Boring Stuff with Python</a>, specifically chapter 20
 </p>
 
