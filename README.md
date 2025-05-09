@@ -9,7 +9,7 @@
 ## Dependencies
 <p id="Dependencies">
   Language: Python 3<br>
-  Modules: <a href="https://pyautogui.readthedocs.io/en/latest/">PyAutoGUI</a> and <a href="https://pypi.org/project/keyboard/">keyboard</a> (logging and time as well, but those are part of the standard library).
+  Modules: <a href="https://pypi.org/project/PyAutoGUI/">PyAutoGUI</a> and <a href="https://pypi.org/project/keyboard/">keyboard</a> (logging and time as well, but those are part of the standard library).
 </p>
 
 ## Usage
